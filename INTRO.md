@@ -15,4 +15,4 @@ I would describe myself rather as a:
 - [x] I've translated nearly 90% of TRON Docs to Polish
 - [x] I'm maintaining a Polish TRX subforum at my own [forum](https://kryptowaluty.org.pl/trx/)
 - [x] I'm informing the Polish community about crypto and TRON related events, news on sites such as: [Bitcoin.pl](https://forum.bitcoin.pl/memberlist.php?mode=viewprofile&u=29263), [Wykop.pl](https://www.wykop.pl/ludzie/BeCometA/) and [Steemit](https://steemit.com/@becometa)
-- [x] I've created and published this timeline (both in Polish and English): ![TRON Timeline of events](https://kryptowaluty.org.pl/pic/poradnik/tron-trx-june-2018-kryptowaluty-org-pl-half.png)
+- [x] I've created and published this timeline (both in Polish and English): ![TRON Timeline of events](https://kryptowaluty.org.pl/pic/poradnik/tron-trx-june-2018-kryptowaluty-org-pl-x2half.png)
