@@ -1,5 +1,6 @@
 # Karol 'becometa' Stańczak
 TRON supporter, believer and holder since late November '17. 
+Core Tronics member selected in [first batch](https://medium.com/tron-foundation/first-batch-of-core-tronics-lists-b458cdeaeefc) by TRON Foundation. 
 
 I'm not a developer nor a code programer. 
 I would describe myself rather as a:
