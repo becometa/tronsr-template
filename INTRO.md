@@ -21,7 +21,9 @@ Team member selected in the [first batch of Core Tronics](https://medium.com/tro
 
 ## My social profiles
 [Twitter](https://twitter.com/becometa) | [Linkedin](https://www.linkedin.com/in/karol-stanczak/)
+
 [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1326045;sa=summary) | [Crowdin](https://crowdin.com/profile/becometa)
+
 [Forum.bitcoin.pl](https://forum.bitcoin.pl/memberlist.php?mode=viewprofile&u=29263) | [Kryptowaluty.org.pl](https://kryptowaluty.org.pl/profile/becometa/) | [Steemit](https://steemit.com/@becometa/) [Wykop.pl](https://www.wykop.pl/ludzie/BeCometA/)
 
 [becometa.pl](http://becometa.pl)
