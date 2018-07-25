@@ -20,7 +20,7 @@ Team member selected in the [first batch of Core Tronics](https://medium.com/tro
 
 
 ## My social profiles
-![Twitter Icon](https://kryptowaluty.org.pl/pic/ico/twitter.png) [Twitter](https://twitter.com/becometa) | [Linkedin](https://www.linkedin.com/in/karol-stanczak/)
+![Twitter Icon](https://kryptowaluty.org.pl/pic/trx/sr/twitter.png) [Twitter](https://twitter.com/becometa) | [Linkedin](https://www.linkedin.com/in/karol-stanczak/)
 
 [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1326045;sa=summary) | [Crowdin](https://crowdin.com/profile/becometa)
 
