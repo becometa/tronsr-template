@@ -20,7 +20,6 @@ Team member selected in the [first batch of Core Tronics](https://medium.com/tro
 
 
 ## My social profiles
-![Twitter Icon](https://kryptowaluty.org.pl/pic/trx/sr/twit.png) [Twitter](https://twitter.com/becometa)
 [Linkedin](https://www.linkedin.com/in/karol-stanczak/)
 
 [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1326045;sa=summary) | [Crowdin](https://crowdin.com/profile/becometa)
@@ -29,9 +28,9 @@ Team member selected in the [first batch of Core Tronics](https://medium.com/tro
 
 [becometa.pl](http://becometa.pl)
 
-| Tables        | Are           | Cool  |
+| My social profiles        |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| ![Twitter Icon](https://kryptowaluty.org.pl/pic/trx/sr/twit.png) [Twitter](https://twitter.com/becometa)     | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
