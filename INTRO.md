@@ -1,9 +1,8 @@
 # Karol 'becometa' Stańczak
+Individual social worker headed towards the educating the community.
 TRON supporter, believer and holder since late November '17. 
-Core Tronics member selected in [first batch](https://medium.com/tron-foundation/first-batch-of-core-tronics-lists-b458cdeaeefc) by TRON Foundation. 
+Team member selected in the [first batch of Core Tronics](https://medium.com/tron-foundation/first-batch-of-core-tronics-lists-b458cdeaeefc) team run by TRON Foundation. 
 
-I'm not a developer nor a code programer. 
-I would describe myself rather as a:
 * community manager
 * text writer
 * information translator
